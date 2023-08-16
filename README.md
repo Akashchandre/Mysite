@@ -19,7 +19,12 @@ My main interest lies in C++ Programming. I also have basic knowledge of Data St
 
 - 📫 How to reach me **chandreakash@gmail.com**
 
-- 📄 Resume :  
+- 📄 Resume :
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/Akash Chandre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Akashchandre" height="30" width="40" /></a>
+<a href="https://instagram.com/i_m_chandre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_m_chandre" height="30" width="40" /></a>
+</p>
                                  
 - ⚡ Fun fact **I think I am Sarcastic.**
 
