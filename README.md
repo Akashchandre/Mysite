@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Akash</h1>
 
-My main interest lies in C++ Programming. I also have basic knowledge of Data Structure. I am always curious to learn something new.
+My main interest lies in java Programming.  I am always curious to learn something new.
                                                 
 <h3 align="center">A passionate Software Engineer from India</h3>
 
@@ -13,7 +13,7 @@ My main interest lies in C++ Programming. I also have basic knowledge of Data St
 
 - 👯 I’m looking to collaborate on react Projects.
 
-- 💬 Ask me about **C++,java**
+- 💬 Ask me about java**
 
 - 📫 How to reach me **chandreakash@gmail.com**
 
